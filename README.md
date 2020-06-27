@@ -42,7 +42,7 @@
 [TD 7 - Problèmes aux limites](https://github.com/jbcaillau/mi2/blob/master/td7/td7.ipynb)
 [(corrigé)](td7/td7-corr.pdf)
 
-[Projet](https://github.com/jbcaillau/mi2/blob/master/proj/proj.ipynb)
+[Projet (corrigé)](https://github.com/jbcaillau/mi2/blob/master/proj/proj.ipynb)
 
 [Exam CC no. 1 (2018-2019)](https://github.com/jbcaillau/mi2/blob/master/exam-cc1-old/exam-cc1.ipynb)
 
